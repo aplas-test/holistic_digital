@@ -29,7 +29,6 @@
           "name": "INT-175",
           "categoryId": "0b92058e-25af-4e83-ad26-fe6e6f607f17",
           "description": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
-          "sourceApplicationId": "holistic_digital",
           "targetApplicationId": "herding_ws",
           "logical_server": "LEG",
           "status_color": "#00FF00",
